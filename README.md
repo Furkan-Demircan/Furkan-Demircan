@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkan-demircan" alt="furkan-demircan" /></a> </p>
 
-- 🌱 I’m currently learning **ReactNative, Nodejs,**
+- 🌱 I’m currently learning **DevOps, AWS Cloud**
 
 <p align="left">
 </p>
