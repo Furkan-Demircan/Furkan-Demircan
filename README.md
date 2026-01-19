@@ -27,7 +27,7 @@
 
 <hr/>
 
-### 🛠️ Yetkinliklerim ve Teknoloji Yığınım
+### 🛠️ Yetkinliklerim
 
 Teknolojileri uzmanlık alanlarına göre gruplandırdım:
 
