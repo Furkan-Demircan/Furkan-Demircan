@@ -70,5 +70,6 @@ Teknolojileri uzmanlık alanlarına göre gruplandırdım:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Furkan-Demircan&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-Demircan&layout=compact&theme=radical&langs_count=8" height="180" alt="Top Langs" />
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Furkan-Demircan)](https://github.com/stats-organization/github-stats-extended)
+
 </div>
