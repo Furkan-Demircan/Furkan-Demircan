@@ -11,7 +11,7 @@
 <p align="center">
   MERN Stack geçmişine sahip yeni mezun bir Bilgisayar Mühendisiyim. <br/>
   Yazılım geliştirme süreçlerini kodlamadan dağıtıma (CI/CD) kadar uçtan uca yönetebilmek için kariyerimi <b>DevOps ve AWS Cloud</b> alanında şekillendiriyorum. <br/>
-  Şu anda aktif olarak <b>iş arıyorum</b> ve yeni teknolojilerle sistem mimarilerini optimize etmeye odaklanıyorum.
+  Şu anda aktif olarak yeni teknolojilerle sistem mimarilerini optimize etmeye odaklanıyorum.
 </p>
 
 <br/>
